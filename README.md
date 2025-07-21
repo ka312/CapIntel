@@ -227,10 +227,6 @@ We welcome contributions to CapIntel! Here's how you can help:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **LangChain**: For the AI agent framework
@@ -239,32 +235,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Matplotlib & Seaborn**: For data visualization
 - **Pandas**: For data manipulation
 
-## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/ka312/CapIntel/issues)
-- **Documentation**: Check the code comments and docstrings
-- **Community**: Join our discussions in GitHub Discussions
 
-## 🔮 Roadmap
-
-### Upcoming Features
-- [ ] **Real-time Market Data Integration**
-- [ ] **Advanced Financial Modeling**
-- [ ] **Portfolio Optimization Tools**
-- [ ] **Collaborative Workspace**
-- [ ] **API for Third-party Integrations**
-- [ ] **Mobile Application**
-- [ ] **Advanced NLP for Document Analysis**
-- [ ] **Machine Learning for Pattern Recognition**
-
-### Version History
-- **v1.0.0**: Initial release with core AI agents and web interface
-- **v1.1.0**: Enhanced reporting and visualization features
-- **v1.2.0**: Advanced customization and export options
-
----
-
-<div align="center">
-  <p><strong>Built with ❤️ for the VC community</strong></p>
-  <p>Transform your deal sourcing and due diligence process with AI-powered insights</p>
-</div> 
